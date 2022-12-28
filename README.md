@@ -76,4 +76,22 @@ Dicho esto, ¡Todo PR es bienvenido! :)
 ## Vim/Nvim
   ### Introducción a Vim 
   * [Vim-genius](http://www.vimgenius.com/) Herramienta interactiva aprender comandos de Vim. Ideal para principiantes (¡y no tan principiantes!).
+  
+## DevOps
+  ###Herramientas para desplegar tus proyectos
+    ###### Frontend:
+      * [Netlify](https://www.netlify.com/)
+      * [Vercel](https://vercel.com/)
+      * [Firebase](https://firebase.google.com/)
+      * [Github Pages](https://pages.github.com/)
+      
+    ###### Backend: 
+      * [Railway](https://railway.app)
+      * [Fly](https://fly.io)
+      * [Render](https://render.com/)
+    
+    ###### Base de datos:
+      * [Planet Scale](https://planetscale.com)
+      * [Clever Cloud](https://www.clever-cloud.com/)
+      * [Atlas MongoDB](https://www.mongodb.com/es/atlas)
 
